@@ -23,8 +23,8 @@
   *Tecnologías:* Backend, IoT, Flask, Raspberry Pi.  
   [Código](https://github.com/3-TIC-ORT/proyecto-3-secure-track)
 
-- **[CSBS-DP Web Form](https://csbs-form.vercel.app)** – Aplicación web para digitalizar y puntuar automáticamente el cuestionario clínico CSBS-DP, enviando un reporte estructurado por email al profesional de la salud.
-  *Tecnologías:* Next.js, TypeScript, Serverless, Email Automation.
+- **[CSBS-DP Web Form](https://csbs-form.vercel.app)** – Aplicación web para digitalizar y puntuar automáticamente el cuestionario clínico CSBS-DP, enviando un reporte estructurado por email al profesional de la salud.\n
+  *Tecnologías:* Next.js, TypeScript, Serverless, Email Automation.\n
   [Código](https://github.com/emitejadaa/csbs-form)
 
 ## 💻 Tech Stack
