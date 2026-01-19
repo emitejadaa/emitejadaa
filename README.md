@@ -8,7 +8,6 @@
 - 🧑‍💻 **GitHub:** [emitejadaa](https://github.com/emitejadaa)
 - 🎨 **CodePen:** [tejada1](https://codepen.io/tejada1)
 - 🌐 **Portafolio:** [portfolio‑tejada.vercel.app](https://portfolio-tejada.vercel.app)
-- 📱 **WhatsApp:** [+54 11 6893 1873](https://wa.me/541168931873)
 - 📧 **Correo electrónico:** [emitejadaaragon@gmail.com](mailto:emitejadaaragon@gmail.com)
 
 ## 🚀 Proyectos destacados
