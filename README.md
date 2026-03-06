@@ -34,52 +34,72 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windowsterminal&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%23BBDEAD" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=black" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/n8n-5b5b5b.svg?style=for-the-badge&logo=n8n&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Pi--Hole-%2396060C.svg?style=for-the-badge&logo=pihole&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Zsh-%23000000.svg?style=for-the-badge&logo=zsh&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Oh%20My%20Zsh-%239C56B8.svg?style=for-the-badge&logo=ohmyzsh&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Hyprland-%236A0DAD.svg?style=for-the-badge&logo=hyprland&logoColor=white" style="border-radius:8px"/>
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" style="border-radius:8px"/>
+<!-- Languages -->
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" style="border-radius:10px; margin:3px"/>
+
+<!-- Tools & Editors -->
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="border-radius:10px; margin:3px"/>
+
+<!-- Web & Backend -->
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%23BBDEAD" alt="Nodemon" style="border-radius:10px; margin:3px"/>
+
+<!-- ML & Data Science -->
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" style="border-radius:10px; margin:3px"/>
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="border-radius:10px; margin:3px"/>
+
+<!-- Version Control -->
+<img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" style="border-radius:10px; margin:3px"/>
+
+<!-- Hardware -->
+<img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" style="border-radius:10px; margin:3px"/>
+
+<!-- Self-hosted & Automation -->
+<img src="https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Pi--hole-96060C.svg?style=for-the-badge&logo=pihole&logoColor=white" alt="Pi-hole" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Portfolio-FF7139.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" style="border-radius:10px; margin:3px"/>
+
+<!-- Gaming -->
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" style="border-radius:10px; margin:3px"/>
+
+<!-- Linux & Shell -->
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Oh%20My%20Zsh-1A2C3B.svg?style=for-the-badge&logo=ohmyzsh&logoColor=white" alt="Oh My Zsh" style="border-radius:10px; margin:3px"/>
+<img src="https://img.shields.io/badge/Hyprland-%236A0DAD.svg?style=for-the-badge&logo=hyprland&logoColor=white" alt="Hyprland" style="border-radius:10px; margin:3px"/>
 
 </p>
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=emitejadaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
